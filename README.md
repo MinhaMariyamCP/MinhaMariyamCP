@@ -150,19 +150,6 @@ Python • FastAPI • Gemini API
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=minhamariyamcp&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhamariyamcp&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -186,17 +173,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=minhamariyam
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img
-src="https://raw.githubusercontent.com/minhamariyamcp/minhamariyamcp/output/github-contribution-grid-snake.svg"
-alt="snake animation"/>
-
-</p>
-
----
 
 # 📈 GitHub Highlights
 
