@@ -32,7 +32,6 @@ AI/ML Enthusiast | Building AI Agents, Automation Systems & Intelligent Applicat
 ## 🌟 Currently Working On
 
 - 🤖 AI GitHub Persona & Card Generator
-- 🧠 AI Relationship Tracker
 - ☁️ Cloud-deployed AI Applications
 - 🔥 FastAPI + Gemini AI integrations
 - 🚀 AI Agents using ADK and Automation Workflows
